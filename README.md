@@ -60,8 +60,8 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![LEGO Mindstorms](https://img.shields.io/badge/LEGO%20Mindstorms-FF0000?style=flat-square&logo=lego&logoColor=white)
-![LEGO SPIKE](https://img.shields.io/badge/LEGO%20SPIKE-FF0000?style=flat-square&logo=lego&logoColor=white)
-![UNIHIKER](https://img.shields.io/badge/UNIHIKER-222222?style=flat-square&logo=dfrobot&logoColor=white)
+![LEGO SPIKE](https://img.shields.io/badge/LEGO%20SPIKE-FF0000?style=flat-square&logo=codepen&logoColor=white)
+![UNIHIKER](https://img.shields.io/badge/UNIHIKER-222222?style=flat-square&logo=microchip&logoColor=white)
 
 ### Tools
 
