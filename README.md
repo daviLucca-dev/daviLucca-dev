@@ -102,11 +102,7 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 &nbsp;&nbsp;
 
-![Figma](https://skillicons.dev/icons?i=figma)
-
 </div>
-
----
 
 ## UX/UI
 
