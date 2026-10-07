@@ -52,12 +52,13 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ### Hardware & Robotics
 
-![Hardware & Robotics](https://skillicons.dev/icons?i=arduino,raspberrypi)
-
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![LEGO Mindstorms](https://img.shields.io/badge/LEGO%20Mindstorms-FF0000?style=flat-square&logo=lego&logoColor=white)
 ![LEGO SPIKE](https://img.shields.io/badge/LEGO%20SPIKE-FF0000?style=flat-square&logo=codepen&logoColor=white)
 ![UNIHIKER](https://img.shields.io/badge/UNIHIKER-222222?style=flat-square&logo=microchip&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
 
 ### Design & Engineering
 
