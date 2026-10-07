@@ -69,6 +69,13 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
+### 3D Printing
+
+![Anycubic](https://img.shields.io/badge/Anycubic-000000?style=flat-square&logo=anycubic&logoColor=white)
+![Creality](https://img.shields.io/badge/Creality-000000?style=flat-square&logo=creality&logoColor=white)
+![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-00AEEF?style=flat-square&logo=ultimaker&logoColor=white)
+![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-FF6B00?style=flat-square&logo=github&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
