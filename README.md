@@ -62,9 +62,11 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ### Design & Engineering
 
-![Design & Engineering](https://skillicons.dev/icons?i=figma)
-
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+
+### Team Management
+
+![Design & Engineering](https://skillicons.dev/icons?i=figma)
 
 ### 3D Printing
 
