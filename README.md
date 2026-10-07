@@ -48,41 +48,33 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ### Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Development](https://skillicons.dev/icons?i=python,php,laravel,micropython,html,css,js,mysql)
 
 ### Hardware & Robotics
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![LEGO Mindstorms](https://img.shields.io/badge/LEGO%20Mindstorms-FF0000?style=flat-square&logo=lego&logoColor=white)
-![LEGO SPIKE](https://img.shields.io/badge/LEGO%20SPIKE-FF0000?style=flat-square&logo=codepen&logoColor=white)
-![UNIHIKER](https://img.shields.io/badge/UNIHIKER-222222?style=flat-square&logo=microchip&logoColor=white)
+![Hardware & Robotics](https://skillicons.dev/icons?i=arduino,esp32,raspberrypi)
+
+`LEGO Mindstorms` · `LEGO SPIKE` · `UNIHIKER`
 
 ### Design & Engineering
 
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Design & Engineering](https://skillicons.dev/icons?i=figma)
+
+`Fusion 360`
 
 ### 3D Printing
 
-![Anycubic](https://img.shields.io/badge/Anycubic-000000?style=flat-square&logo=anycubic&logoColor=white)
-![Creality](https://img.shields.io/badge/Creality-000000?style=flat-square&logo=creality&logoColor=white)
-![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-00AEEF?style=flat-square&logo=ultimaker&logoColor=white)
-![Orca Slicer](https://img.shields.io/badge/Orca%20Slicer-FF6B00?style=flat-square)
+`Anycubic Slicer` · `Creality Slicer` · `Ultimaker Cura` · `Orca Slicer`
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Pybricks](https://img.shields.io/badge/Pybricks-000000?style=flat-square)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+`Pybricks`
+
+### Project Management
+
+![Project Management](https://skillicons.dev/icons?i=jira,trello)
 
 ---
 
