@@ -108,6 +108,15 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ---
 
+## UX/UI
+
+<div align="center">
+
+![Figma](https://skillicons.dev/icons?i=figma)
+
+</div>
+
+---
 ## Team Management
 
 <div align="center">
