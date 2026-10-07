@@ -43,8 +43,9 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 | Achievement | Experience |
 | :---: | :---: |
 | **2×** | OBR Regional Champion |
-| **2×** | OBR State Stage Qualifier |
-| **🇨🇦** | RoboCup competitor in Canada |
+| **2×** | OBR State Stage Pódium |
+| **2×** | OBR National Stage |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e8-1f1e6.svg" width="20" alt="Canada"> | RoboCup competitor in Canada |
 
 </div>
 
