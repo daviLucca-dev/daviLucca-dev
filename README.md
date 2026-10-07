@@ -48,7 +48,7 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ### Development
 
-![Development](https://skillicons.dev/icons?i=python,php,laravel,html,css,js,mysql)
+![Development](https://skillicons.dev/icons?i=python,php,laravel,html,css,js,jquery,bootstrap,mysql,linux)
 
 ### Hardware & Robotics
 
