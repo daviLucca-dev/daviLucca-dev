@@ -66,7 +66,7 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ### Team Management
 
-![Design & Engineering](https://skillicons.dev/icons?i=figma)
+
 
 ### 3D Printing
 
@@ -79,11 +79,9 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-`Pybricks`
-
 ### Project Management
 
-![Project Management](https://skillicons.dev/icons?i=jira,trello)
+![Design & Engineering](https://skillicons.dev/icons?i=figma)
 
 ---
 
