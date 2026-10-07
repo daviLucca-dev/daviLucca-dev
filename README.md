@@ -113,6 +113,7 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 </div>
 
 ---
+
 ## Team Management
 
 <div align="center">
@@ -223,8 +224,6 @@ UI · UX · Visual Identity · Digital Interfaces
 
 ---
 
----
-
 # Connect With Me
 
 <div align="center">
@@ -237,18 +236,6 @@ UI · UX · Visual Identity · Digital Interfaces
 
 <a href="https://instagram.com/davluccaxz">
   <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/davi-lucca-480000312/">
-  <b>LinkedIn</b>
-</a>
-
-&nbsp;&nbsp;·&nbsp;&nbsp;
-
-<a href="https://instagram.com/davluccaxz">
-  <b>@davluccaxz</b>
 </a>
 
 </div>
@@ -266,4 +253,3 @@ UI · UX · Visual Identity · Digital Interfaces
 **Davi Lucca**
 
 </div>
-
