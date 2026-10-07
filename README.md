@@ -74,13 +74,14 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 ![Anycubic](https://img.shields.io/badge/Anycubic-000000?style=flat-square&logo=anycubic&logoColor=white)
 ![Creality](https://img.shields.io/badge/Creality-000000?style=flat-square&logo=creality&logoColor=white)
 ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-00AEEF?style=flat-square&logo=ultimaker&logoColor=white)
-![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-FF6B00?style=flat-square&logo=github&logoColor=white)
+![Orca Slicer](https://img.shields.io/badge/Orca%20Slicer-FF6B00?style=flat-square)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Pybricks](https://img.shields.io/badge/Pybricks-000000?style=flat-square)
 
 ---
 
