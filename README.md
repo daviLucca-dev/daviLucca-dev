@@ -52,19 +52,25 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 ### Hardware & Robotics
 
-![Hardware & Robotics](https://skillicons.dev/icons?i=arduino,esp32,raspberrypi)
+![Hardware & Robotics](https://skillicons.dev/icons?i=arduino,raspberrypi)
 
-`LEGO Mindstorms` · `LEGO SPIKE` · `UNIHIKER`
+![LEGO Mindstorms](https://img.shields.io/badge/LEGO%20Mindstorms-FF0000?style=flat-square&logo=lego&logoColor=white)
+![LEGO SPIKE](https://img.shields.io/badge/LEGO%20SPIKE-FF0000?style=flat-square&logo=codepen&logoColor=white)
+![UNIHIKER](https://img.shields.io/badge/UNIHIKER-222222?style=flat-square&logo=microchip&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ### Design & Engineering
 
 ![Design & Engineering](https://skillicons.dev/icons?i=figma)
 
-`Fusion 360`
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
 ### 3D Printing
 
-`Anycubic Slicer` · `Creality Slicer` · `Ultimaker Cura` · `Orca Slicer`
+![Anycubic](https://img.shields.io/badge/Anycubic-000000?style=flat-square&logo=anycubic&logoColor=white)
+![Creality](https://img.shields.io/badge/Creality-000000?style=flat-square&logo=creality&logoColor=white)
+![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-00AEEF?style=flat-square&logo=ultimaker&logoColor=white)
+![Orca Slicer](https://img.shields.io/badge/Orca%20Slicer-FF6B00?style=flat-square)
 
 ### Tools
 
