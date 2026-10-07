@@ -42,6 +42,8 @@ Through the **ARMADILLOS robotics team**, I've had the opportunity to work with 
 
 | Achievement | Experience |
 | :---: | :---: |
+| **4×** | FLL Competitor |
+| **2×** | FLL Mentor |
 | **2×** | OBR Regional Champion |
 | **2×** | OBR State Stage Pódium |
 | **2×** | OBR National Stage |
