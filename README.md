@@ -223,7 +223,47 @@ UI · UX · Visual Identity · Digital Interfaces
 
 ---
 
-# Currently Exploring
+---
+
+# Connect With Me
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/davi-lucca-480000312/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/davluccaxz">
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/davi-lucca-480000312/">
+  <b>LinkedIn</b>
+</a>
+
+&nbsp;&nbsp;·&nbsp;&nbsp;
+
+<a href="https://instagram.com/davluccaxz">
+  <b>@davluccaxz</b>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=600&lines=Always+learning.;Always+building.;Always+evolving." alt="Typing SVG" />
+
+<br><br>
+
+### BUILD. CREATE. EVOLVE.
+
+**Davi Lucca**
+
+</div>
 
